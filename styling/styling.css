@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #171717;
+    max-width: 900px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+.topGroup {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.yucca {
+    display: flex;
+    align-items:center;
+    gap: 0px;
+
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.normalGroup {
+    background: #1c1c1c;
+
+    border: 2px solid #2e2e2e;
+    border-radius: 12px;
+
+    border-left: 2px solid #454545;
+
+
+    padding:18px;
+    margin-bottom: 15px;
+}
+

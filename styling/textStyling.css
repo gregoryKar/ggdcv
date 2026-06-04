@@ -1,0 +1,45 @@
+h1 {
+    font-size: 38px;
+    font-weight: 550;
+    margin: 0;
+
+    color: rgb(220, 93, 29);
+}
+
+h2 {
+    font-size: px;
+    font-weight: 550;
+
+    margin-top: 8px;
+    margin-bottom: 20px;
+
+    letter-spacing: 1px;
+
+    color: rgb(172, 178, 180);
+}
+
+h3 {
+    font-size: 22px;
+    font-weight: 600;
+
+    font-style: italic;
+
+    margin-top: 0;
+
+    margin-bottom: 10px;
+
+    color: rgb(122, 123, 127);
+}
+
+p,
+ul {
+
+    margin-bottom: 5px;
+    line-height: 1.5;
+    color: rgb(195, 195, 195);
+}
+
+a {
+    font-weight: 700;
+    color: #d25429;
+}
