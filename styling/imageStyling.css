@@ -1,8 +1,8 @@
 .player img {
     border: 2px solid #181717;
    
-    width: 222px;
-    height: 222px;
+    width: 180px;
+    height: 180px;
 
     border-radius: 50%;
     object-fit: cover;
@@ -15,12 +15,13 @@
     height: 160px;
 
     border-radius: 20%;
+    object-fit: cover;
    
 }
 
 @media (max-width: 600px)
 {
-    .player
+    .main
     {
         flex-direction: column;
         text-align: center;
