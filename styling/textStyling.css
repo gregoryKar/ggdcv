@@ -42,4 +42,12 @@ ul {
 a {
     font-weight: 700;
     color: #d25429;
+
+    display: inline-block;
+    transition: transform 0.05s;
+}
+
+a:hover {
+    color: #fffb00;
+    transform: scale(1.02);
 }

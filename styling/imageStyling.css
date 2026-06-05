@@ -1,4 +1,4 @@
-.topGroup img {
+.player img {
     border: 2px solid #181717;
    
     width: 222px;
@@ -18,8 +18,11 @@
    
 }
 
-@media (min-width: 768px) {
-    .projects {
-        grid-template-columns: 1fr 1fr;
+@media (max-width: 600px)
+{
+    .player
+    {
+        flex-direction: column;
+        text-align: center;
     }
 }
